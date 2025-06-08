@@ -1,0 +1,15 @@
+[2025-06-09 00:57:25,533] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 00:57:39,215] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\fitness_booking\settings.py changed, reloading.
+[2025-06-09 00:57:40,529] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 01:01:35,782] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\booking_api\views.py changed, reloading.
+[2025-06-09 01:01:36,820] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 01:01:43,602] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\booking_api\views.py changed, reloading.
+[2025-06-09 01:01:44,618] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 01:01:51,631] INFO booking_api: GET /api/classes called with tz=Asia/Kolkata by Anonymous
+[2025-06-09 01:02:50,295] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\booking_api\views.py changed, reloading.
+[2025-06-09 01:02:51,227] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 01:02:55,627] INFO booking_api: GET /api/classes called with tz=Asia/Kolkata by User
+[2025-06-09 01:10:47,462] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\fitness_booking\settings.py changed, reloading.
+[2025-06-09 01:10:48,593] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 01:11:11,559] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\fitness_booking\settings.py changed, reloading.
+[2025-06-09 01:11:12,473] INFO django.utils.autoreload: Watching for file changes with StatReloader
