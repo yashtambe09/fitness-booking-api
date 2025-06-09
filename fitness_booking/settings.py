@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'booking_api',  # Your booking API app
+    'booking_api', 
 ]
 
 MIDDLEWARE = [

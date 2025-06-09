@@ -87,3 +87,9 @@ Seed data for classes is provided via the custom management command:
 ```sh
 python manage.py seed_classes
 ```
+
+---
+
+## 🎥 Walkthrough Video
+
+[Loom Video Walkthrough](https://www.loom.com/share/4fcbbf98118247718e91739b33b174ae?sid=5c05ed06-5d65-40ef-b437-40702d4fe1d9)

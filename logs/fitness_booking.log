@@ -13,3 +13,19 @@
 [2025-06-09 01:10:48,593] INFO django.utils.autoreload: Watching for file changes with StatReloader
 [2025-06-09 01:11:11,559] INFO django.utils.autoreload: D:\omnify_django_task\fitness_booking\fitness_booking\settings.py changed, reloading.
 [2025-06-09 01:11:12,473] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 13:01:39,254] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 13:02:50,089] INFO booking_api: GET /api/classes called with tz=Asia/Kolkata by User
+[2025-06-09 13:04:46,122] WARNING django.request: Method Not Allowed: /api/book
+[2025-06-09 13:04:51,863] INFO booking_api: POST /api/book_class called with data={'class_id': 3, 'client_name': 'Yash Tambe', 'client_email': 'yashtambe@example.com'} by User
+[2025-06-09 13:04:52,950] INFO booking_api: Booking created: Yash Tambe - HIIT (yashtambe@example.com)
+[2025-06-09 13:05:19,083] INFO booking_api: GET /api/bookings called with email=yashtambe@example.com by User
+[2025-06-09 13:05:38,554] WARNING django.request: Method Not Allowed: /api/book
+[2025-06-09 13:05:42,563] INFO booking_api: POST /api/book_class called with data={'class_id': 2, 'client_name': 'Yash Tambe', 'client_email': 'yashtambe@example.com'} by User
+[2025-06-09 13:05:43,880] INFO booking_api: Booking created: Yash Tambe - Zumba (yashtambe@example.com)
+[2025-06-09 13:05:51,596] WARNING django.request: Method Not Allowed: /api/bookings
+[2025-06-09 13:05:54,367] INFO booking_api: GET /api/bookings called with email=yashtambe@example.com by User
+[2025-06-09 13:27:02,987] INFO django.utils.autoreload: Watching for file changes with StatReloader
+[2025-06-09 13:27:45,842] INFO booking_api: GET /api/classes called with tz=UTC by User
+[2025-06-09 13:29:20,114] INFO booking_api: POST /api/book_class called with data={'class_id': 2, 'client_name': 'Yash Ashok tambe', 'client_email': 'yash@gmail.com'} by User
+[2025-06-09 13:29:21,097] INFO booking_api: Booking created: Yash Ashok tambe - Zumba (yash@gmail.com)
+[2025-06-09 13:29:42,696] INFO booking_api: GET /api/bookings called with email=yash@gmail.com by User
